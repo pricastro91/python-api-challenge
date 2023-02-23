@@ -1,9 +1,3 @@
-# Python API Project - What's the Weather Like?
-
-# Background
-
-I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
-
 # Part I - WeatherPy
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized [simple Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api)
@@ -126,9 +120,4 @@ Now I want to use my skills in working with weather data to plan future vacation
   - Zero cloudiness.
   - Drop any rows that don't contain all three conditions.
 
-  ## To run the code:
 
-  - Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
-  - Save OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
-  - Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
-  - Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
